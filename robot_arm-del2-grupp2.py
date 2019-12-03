@@ -10,7 +10,6 @@ from pybricks.tools import print, wait, StopWatch
 from pybricks.robotics import DriveBase
 from time import sleep
     
-# Write your program here
 brick.sound.beep()
 
 claw = Motor(Port.D)
